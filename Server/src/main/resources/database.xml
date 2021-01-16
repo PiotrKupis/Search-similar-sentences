@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<UserEntries>
+    <UserEntry>
+        <login>piotrek</login>
+        <password>piotrek123</password>
+    </UserEntry>
+    <UserEntry>
+        <login>user</login>
+        <password>user</password>
+    </UserEntry>
+    <UserEntry>
+        <login>adam</login>
+        <password>adam</password>
+    </UserEntry>
+    <UserEntry>
+        <login>John</login>
+        <password>John123</password>
+    </UserEntry>
+</UserEntries>

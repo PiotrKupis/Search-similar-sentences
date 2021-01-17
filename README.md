@@ -4,7 +4,7 @@ The output sentences come from a collection of free books located on the server.
 The connection between the server and clients is encrypted by using the TLS protocol.
 Logins and passwords of the users are stored in the xml file.
 
-## Features:
+## Features
 * Registering
 * Logging in
 * Reminding the password
